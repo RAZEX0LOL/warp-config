@@ -12,7 +12,7 @@
 ![Страница AmneziaWG](./icon1.png)
 
 
--Нажмите на файл из перечисленных, для windows .exe, для MacOS .dmg, телефоны .apk, Linux .tar.zir
+-Нажмите на файл из перечисленных, для Windows .exe, для MacOS .dmg, Android .apk, Linux .tar.zir, IOS ищите в App Store (Если в РФ регионе нет, переносите Apple ID на зарубежный)
 
 ![Страница AmneziaWG](./icon2.png)
 
