@@ -3,6 +3,10 @@
 ## Установка
 
 - Скачайте файл WARP.conf на свое устройство (ПК, планшет, телефон)
+- Может быть, что файл не заработает, тогда перейдите по ссылке https://shell.cloud.google.com/?pli=1&show=ide%2Cterminal и введите в консоль curl -sSL https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/warp_generator.sh | bash 
+- В консоли появится ссылка, по ней лежит файт WARP.conf — его надо скачать.
+
+
 - Скачайте приложение и установите AmneziaWG (https://github.com/amnezia-vpn/amnezia-client.git для ПК, или ищите в App Store или Google play, если нет, то заходите с зарубежных регионов)
 	
 ## Установка на ПК
